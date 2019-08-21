@@ -204,7 +204,7 @@ h4 {
 	font-size: 28px;
 	font-weight: 600;
 }
-li {
+.li {
 	color: red;
 	line-height: 3;
 	text-decoration: underline;
