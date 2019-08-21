@@ -46,7 +46,7 @@ table {
 	border-collapse: collapse;
 	border-spacing: 0;
 }
-
+/*General CSS*/
 
 *,*:before, *:after {
 	box-sizing: border-box;
@@ -59,7 +59,6 @@ body {
 	font-family: 'Raleway', sans-serif;
 	line-height: 1.8;
 }
-
 .header {
 	background-image: url(../media/header.jpg);
 	background-repeat: no-repeat;
@@ -69,7 +68,6 @@ body {
 	padding: 130px 0;
 }
 .logo {
-
 	font-size: 60px;
 	text-transform: uppercase;
 	text-decoration: none;
@@ -124,8 +122,6 @@ li {
 	background-image: url(../media/overlay.png);
 	padding-bottom: 90px;
 }
-
-
 .flex {
 	display: flex;
 	justify-content: space-between;
@@ -146,13 +142,11 @@ h2 {
 
 	border-radius: 5%;
 }
-
 .col-para {
 	padding-bottom: 35px;
 	padding-top: 20px;
 	font-size: 16px;
 }
-
 .btn {
 	font-size: 16px;
 	color: white;
@@ -169,8 +163,6 @@ hr {
 	margin-bottom: 50px;
 	color: rbga(255,255,255,0.7);
 }
-
-
 .two-cols {
 	padding-bottom: 60px;
 	padding-top: 60px;
@@ -240,9 +232,8 @@ h5 {
 	padding-bottom: 10px;
 }
 .inside img {
-	margin-right: 10px;
+	margin-right: 20px;
 }
-
 .footer {
 	background-color: #090909;
 	text-align: center;
